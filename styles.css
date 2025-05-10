@@ -1,0 +1,36 @@
+
+html {
+    background-color: black;
+    box-sizing: border-box;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: skyblue;
+    text-align: center;
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.salmon {
+    display: block;
+    color: aliceblue;
+    padding: 8px;
+    border: 3px solid bisque;
+    margin-bottom: 8px;
+}
+.carbonara {
+    display: block;
+    color:aliceblue;
+    padding: 8px;
+    border: 3px solid bisque;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.cookie {
+    display: block;
+    color: aliceblue;
+    padding: 8px;
+    border: 3px solid bisque;
+    text-align: right;
+}
